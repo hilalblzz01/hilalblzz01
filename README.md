@@ -1,151 +1,143 @@
-<!-- HEADER DENGAN EFEK BLUR -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Hialdev;TikTok+%40hialdev01;FB+Lal+Kimochi;Join+Server+Anomali!" alt="Typing SVG" />
-</p>
+<!-- HIALDEV — README.md | GALACTIC CYBERPUNK -->
 
-<!-- BACKGROUND BLUR EFFECT (PAKAI BADGES TRANSPARAN) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/✨_CONTENT_CREATOR_-6A5ACD?style=for-the-badge&labelColor=rgba(106,90,205,0.1)&color=rgba(106,90,205,0.3)" alt="Creator"/>
-  <img src="https://img.shields.io/badge/⚡_DEVELOPER_-6A5ACD?style=for-the-badge&labelColor=rgba(106,90,205,0.1)&color=rgba(106,90,205,0.3)" alt="Developer"/>
-  <img src="https://img.shields.io/badge/🎮_GAMER_-6A5ACD?style=for-the-badge&labelColor=rgba(106,90,205,0.1)&color=rgba(106,90,205,0.3)" alt="Gamer"/>
-</p>
+<div align="center">
 
-<!-- STATS DENGAN EFEK BLUR -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Followers-2.5K-ffffff?style=for-the-badge&labelColor=rgba(255,255,255,0.1)&color=rgba(255,255,255,0.2)" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Projects-23-ffffff?style=for-the-badge&labelColor=rgba(255,255,255,0.1)&color=rgba(255,255,255,0.2)" alt="Projects"/>
-  <img src="https://img.shields.io/badge/Members-500+-ffffff?style=for-the-badge&labelColor=rgba(255,255,255,0.1)&color=rgba(255,255,255,0.2)" alt="Members"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&width=600&lines=⚡+WELCOME+TO+HIALDEV's+SPACE;🌌+Content+Creator+%26+Dev;🎮+Join+Server+ANOMALI;💜+TikTok+%40hialdev01" alt="Typing SVG" />
 
----
+<br/>
 
-<!-- DISCORD SERVER ANOMALI - FEATURED DENGAN BLUR -->
-<p align="center">
-  <a href="https://discord.gg/ws4aVYDecJ">
-    <img src="https://img.shields.io/badge/🎮_JOIN_SERVER_ANOMALI_-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=rgba(88,101,242,0.3)&color=rgba(88,101,242,0.8)" width="450"/>
-  </a>
-</p>
+![](https://img.shields.io/badge/✦%20CONTENT%20CREATOR-0d0d1a?style=for-the-badge&labelColor=0d0d1a&color=7c3aed)
+![](https://img.shields.io/badge/⚡%20DEVELOPER-0d0d1a?style=for-the-badge&labelColor=0d0d1a&color=2563eb)
+![](https://img.shields.io/badge/🎮%20GAMER-0d0d1a?style=for-the-badge&labelColor=0d0d1a&color=0891b2)
 
-<p align="center">
-  <b>
-    <img src="https://img.shields.io/badge/✨_Gaming_Community_-rgba(255,255,255,0.2)?style=flat-square&labelColor=transparent&color=rgba(255,255,255,0.2)" alt="Gaming"/>
-    <img src="https://img.shields.io/badge/💬_Hangout_-rgba(255,255,255,0.2)?style=flat-square&labelColor=transparent&color=rgba(255,255,255,0.2)" alt="Hangout"/>
-    <img src="https://img.shields.io/badge/🤝_Kolaborasi_-rgba(255,255,255,0.2)?style=flat-square&labelColor=transparent&color=rgba(255,255,255,0.2)" alt="Kolaborasi"/>
-  </b>
-</p>
+<br/>
+
+![](https://img.shields.io/badge/👥%20Followers-2.5K-a855f7?style=flat-square&labelColor=1a0a2e)
+&nbsp;
+![](https://img.shields.io/badge/🛠%20Projects-23-818cf8?style=flat-square&labelColor=1a0a2e)
+&nbsp;
+![](https://img.shields.io/badge/🌐%20Members-500%2B-22d3ee?style=flat-square&labelColor=1a0a2e)
+&nbsp;
+![](https://komarev.com/ghpvc/?username=Hialdev&color=7c3aed&style=flat-square&label=👁%20Visitors&abbreviated=true)
+
+</div>
 
 ---
 
-## 🚀 ALL LINKS
+<div align="center">
 
-<!-- TIKTOK - BLUR STYLE -->
-<p align="center">
-  <a href="https://www.tiktok.com/@hialdev01">
-    <img src="https://img.shields.io/badge/TikTok-@hialdev01-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=rgba(0,0,0,0.3)&color=rgba(0,0,0,0.8)" width="350"/>
-  </a>
-</p>
+## 🌌 Join Server Anomali
 
-<!-- FACEBOOK - BLUR STYLE -->
-<p align="center">
-  <a href="https://www.facebook.com/share/1HJk7o76T7/">
-    <img src="https://img.shields.io/badge/Facebook-Lal_Kimochi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=rgba(24,119,242,0.3)&color=rgba(24,119,242,0.8)" width="350"/>
-  </a>
-</p>
+> *"Bukan sekadar server biasa — ini galaksi kita sendiri."*
 
-<!-- DISCORD PROFILE - BLUR STYLE -->
-<p align="center">
-  <a href="https://discord.com/users/1460940712131563664">
-    <img src="https://img.shields.io/badge/Discord_Profile-Hialdev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=rgba(88,101,242,0.3)&color=rgba(88,101,242,0.8)" width="350"/>
-  </a>
-</p>
+<br/>
 
-<!-- DISCORD SERVER - BLUR STYLE -->
-<p align="center">
-  <a href="https://discord.gg/ws4aVYDecJ">
-    <img src="https://img.shields.io/badge/Discord_Server-Anomali-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=rgba(88,101,242,0.3)&color=rgba(88,101,242,0.8)" width="350"/>
-  </a>
-</p>
+<a href="https://discord.gg/ws4aVYDecJ">
+  <img src="https://img.shields.io/badge/🚀%20JOIN%20SERVER%20ANOMALI-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404eed" width="480"/>
+</a>
 
-<!-- SOCIABUZZ - BLUR STYLE -->
-<p align="center">
-  <a href="https://sociabuzz.com/lalzyx_/tribe">
-    <img src="https://img.shields.io/badge/Traktir_Kopi-Sociabuzz-FF5E5B?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=rgba(255,94,91,0.3)&color=rgba(255,94,91,0.8)" width="350"/>
-  </a>
-</p>
+<br/><br/>
 
-<!-- WHATSAPP GROUP - BLUR STYLE -->
-<p align="center">
-  <a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">
-    <img src="https://img.shields.io/badge/WA_Group-SRRVER_PT_PT_X8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=rgba(37,211,102,0.3)&color=rgba(37,211,102,0.8)" width="350"/>
-  </a>
-</p>
+| 🎮 Gaming | 💻 Dev & Coding | 🎵 Musik & Hiburan | 💬 Ngobrol Santai |
+|:---------:|:---------------:|:------------------:|:------------------:|
+| Tournament & game bareng | Share project & belajar bareng | Playlist & rekomendasi | Meme, vent & ketawa bareng |
 
-<!-- GITHUB - BLUR STYLE -->
-<p align="center">
-  <a href="https://github.com/Hialdev">
-    <img src="https://img.shields.io/badge/GitHub-@Hialdev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=rgba(24,23,23,0.3)&color=rgba(24,23,23,0.8)" width="350"/>
-  </a>
-</p>
+<br/>
+
+![](https://img.shields.io/badge/500%2B%20Members-Active%20Community-a855f7?style=flat-square&labelColor=1a0a2e)
+&nbsp;
+![](https://img.shields.io/badge/Open-All%20Welcome-22d3ee?style=flat-square&labelColor=1a0a2e)
+&nbsp;
+![](https://img.shields.io/badge/24%2F7-Always%20Active-818cf8?style=flat-square&labelColor=1a0a2e)
+
+</div>
 
 ---
 
-## 📊 GITHUB STATS
+## ⚡ Sosial Media
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hialdev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=6A5ACD&bg_color=0d1117" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hialdev&theme=transparent&hide_border=true&ring=6A5ACD&fire=6A5ACD&currStreakLabel=ffffff" width="400"/>
-</p>
+<div align="center">
 
----
+<a href="https://www.tiktok.com/@hialdev01">
+  <img src="https://img.shields.io/badge/TikTok-%40hialdev01-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=111111" width="340"/>
+</a>
+<a href="https://www.facebook.com/share/1HJk7o76T7/">
+  <img src="https://img.shields.io/badge/Facebook-Lal%20Kimochi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d5dbf" width="340"/>
+</a>
 
-## 💫 SUPPORT ME
+<br/>
 
-<p align="center">
-  <a href="https://sociabuzz.com/lalzyx_/tribe">
-    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=rgba(255,221,0,0.3)&color=rgba(255,221,0,0.8)" width="350"/>
-  </a>
-</p>
+<a href="https://discord.com/users/1460940712131563664">
+  <img src="https://img.shields.io/badge/Discord%20Profile-Hialdev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404eed" width="340"/>
+</a>
+<a href="https://discord.gg/ws4aVYDecJ">
+  <img src="https://img.shields.io/badge/Discord%20Server-Anomali%20🌌-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404eed" width="340"/>
+</a>
 
-<p align="center">
-  <i>✨ Support biar makin semangat bikin konten ✨</i>
-</p>
+<br/>
 
----
+<a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">
+  <img src="https://img.shields.io/badge/WA%20Group-SRRVER%20PT%20PT%20X8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128c55" width="340"/>
+</a>
+<a href="https://github.com/Hialdev">
+  <img src="https://img.shields.io/badge/GitHub-%40Hialdev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" width="340"/>
+</a>
 
-## 📌 QUICK LINKS
-
-<p align="center">
-  <a href="https://www.tiktok.com/@hialdev01">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white&labelColor=transparent&color=rgba(0,0,0,0.3)" alt="TikTok"/>
-  </a>
-  •
-  <a href="https://www.facebook.com/share/1HJk7o76T7/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=transparent&color=rgba(24,119,242,0.3)" alt="Facebook"/>
-  </a>
-  •
-  <a href="https://discord.gg/ws4aVYDecJ">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=transparent&color=rgba(88,101,242,0.3)" alt="Discord"/>
-  </a>
-  •
-  <a href="https://sociabuzz.com/lalzyx_/tribe">
-    <img src="https://img.shields.io/badge/Donasi-FF5E5B?style=flat-square&logo=buymeacoffee&logoColor=white&labelColor=transparent&color=rgba(255,94,91,0.3)" alt="Donasi"/>
-  </a>
-  •
-  <a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">
-    <img src="https://img.shields.io/badge/WA_Group-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=transparent&color=rgba(37,211,102,0.3)" alt="WA"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<!-- VISITOR COUNTER DENGAN BLUR -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hialdev&color=6A5ACD&style=flat-square&label=VISITORS&abbreviated=true" alt="Visitor Counter"/>
-</p>
+## 📊 GitHub Stats
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with_❤️_by_Hialdev-rgba(255,255,255,0.2)?style=flat-square&labelColor=transparent&color=rgba(255,255,255,0.2)" alt="Footer"/>
-  <br>
-  <img src="https://img.shields.io/badge/Last_Updated-2026-rgba(255,255,255,0.1)?style=flat-square&labelColor=transparent&color=rgba(255,255,255,0.1)" alt="Updated"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hialdev&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e2e8f0&icon_color=22d3ee&bg_color=0d0d1a" width="420"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hialdev&theme=tokyonight&hide_border=true&ring=a855f7&fire=818cf8&currStreakLabel=22d3ee&background=0d0d1a" width="420"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hialdev&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d0d1a" width="420"/>
+
+</div>
+
+---
+
+## ☕ Support & Donasi
+
+<div align="center">
+
+> *Kalau konten & project ini bermanfaat, support biar makin gas! 🚀*
+
+<br/>
+
+<a href="https://sociabuzz.com/lalzyx_/tribe">
+  <img src="https://img.shields.io/badge/☕%20Traktir%20Kopi%20di%20Sociabuzz-FF5E5B?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=cc2b28" width="400"/>
+</a>
+
+<br/><br/>
+
+*✨ Every support = more content, more projects, more vibes ✨*
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://www.tiktok.com/@hialdev01"><img src="https://img.shields.io/badge/TikTok-000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.facebook.com/share/1HJk7o76T7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+&nbsp;
+<a href="https://discord.gg/ws4aVYDecJ"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+&nbsp;
+<a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+&nbsp;
+<a href="https://sociabuzz.com/lalzyx_/tribe"><img src="https://img.shields.io/badge/Donasi-FF5E5B?style=flat-square&logo=buymeacoffee&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/Hialdev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+*💜 Made with love by Hialdev · 2026*
+
+</div>
