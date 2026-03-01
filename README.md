@@ -1,15 +1,27 @@
-## 💖 Support Me
+<div align="center">
 
-If you like this project, you can support me here:
+## 🤍 Support This Project
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
-[![Saweria](https://img.shields.io/badge/Donate-Saweria-00C853?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://saweria.co/USERNAME)
+If this project helps you, consider supporting me.
 
----
+<br>
 
-<p align="center">
-  <img src="assets/donate.png" width="500" alt="Support Me Banner">
-</p>
+<a href="https://saweria.co/USERNAME">
+  <img src="https://img.shields.io/badge/Donate-Support%20Me-111111?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
 
-⭐ Thank you for your support!
+<br><br>
+
+<a href="https://instagram.com/USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://facebook.com/USERNAME">
+  <img src="https://img.shields.io/badge/Facebook-000000?style=flat&logo=facebook&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Thank you for your support ✨</sub>
+
+</div>
