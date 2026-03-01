@@ -1,386 +1,165 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
-    <title>Hialdev • Semua Link</title>
-    <!-- Font Awesome Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <!-- Google Font - Poppins (biar aesthetic) -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<!-- HEADER ANIMASI -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hi!+I'm+Hialdev;TikTok+%40hialdev01;FB+Lal+Kimochi;Join+Server+Anomali!" alt="Typing SVG" />
+</p>
 
-        body {
-            font-family: 'Poppins', sans-serif;
-            background: linear-gradient(145deg, #0f0c29, #302b63, #24243e);
-            background-attachment: fixed;
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-            color: #fff;
-        }
+<!-- PROFILE CARD -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FOLLOWERS-2.5K-6A5ACD?style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/badge/PROJECTS-23-6A5ACD?style=for-the-badge" alt="Projects"/>
+  <img src="https://img.shields.io/badge/FRIENDS-580-6A5ACD?style=for-the-badge" alt="Friends"/>
+</p>
 
-        .container {
-            max-width: 500px;
-            width: 100%;
-            margin: 0 auto;
-        }
+---
 
-        /* Card utama dengan efek glassmorphism */
-        .bio-card {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(15px);
-            -webkit-backdrop-filter: blur(15px);
-            border-radius: 40px;
-            padding: 30px 25px;
-            box-shadow: 0 25px 50px -8px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 255, 255, 0.2) inset;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            animation: fadeIn 0.8s ease;
-        }
+## 🚀 SEMUA LINK SAYA
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+<!-- DISCORD SERVER ANOMALI - FEATURED (Paling Atas Biar Kelihatan) -->
+<p align="center">
+  <a href="https://discord.gg/ws4aVYDecJ">
+    <img src="https://img.shields.io/badge/🔥_JOIN_SERVER_ANOMALI_-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&fontSize=20" width="450"/>
+  </a>
+</p>
 
-        /* Profile Section */
-        .profile {
-            text-align: center;
-            margin-bottom: 30px;
-        }
+<p align="center">
+  <b>✨ Gaming Community • Hangout • Kolaborasi • 500+ Members ✨</b>
+</p>
 
-        .profile-pic {
-            width: 110px;
-            height: 110px;
-            border-radius: 50%;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            margin: 0 auto 15px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border: 4px solid rgba(255, 255, 255, 0.5);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-        }
+<p align="center">
+  <a href="https://discord.gg/ws4aVYDecJ">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://discord.gg/ws4aVYDecJ" width="150"/>
+  </a>
+  <br>
+  <i>Scan QR atau klik tombol di atas untuk join!</i>
+</p>
 
-        .profile-pic-inner {
-            font-size: 3.5rem;
-            font-weight: 600;
-            color: white;
-            text-shadow: 2px 2px 10px rgba(0,0,0,0.3);
-        }
+---
 
-        .profile h1 {
-            font-size: 2rem;
-            font-weight: 700;
-            margin-bottom: 5px;
-            background: linear-gradient(135deg, #fff, #e0e0ff);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
+<!-- SEMUA LINK DALAM BENTUK TOMBOL -->
+<p align="center">
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@hialdev01">
+    <img src="https://img.shields.io/badge/TikTok-@hialdev01-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=black" width="300"/>
+  </a>
+</p>
 
-        .profile p {
-            font-size: 1rem;
-            opacity: 0.9;
-            margin-bottom: 10px;
-            color: #ddd;
-        }
+<p align="center">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/1HJk7o76T7/">
+    <img src="https://img.shields.io/badge/Facebook-Lal_Kimochi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" width="300"/>
+  </a>
+</p>
 
-        .profile-badge {
-            display: inline-block;
-            background: rgba(255, 255, 255, 0.15);
-            padding: 8px 20px;
-            border-radius: 50px;
-            font-size: 0.9rem;
-            border: 1px solid rgba(255, 255, 255, 0.3);
-            backdrop-filter: blur(5px);
-        }
+<p align="center">
+  <!-- Discord Profile -->
+  <a href="https://discord.com/users/1460940712131563664">
+    <img src="https://img.shields.io/badge/Discord_Profile-Hialdev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" width="300"/>
+  </a>
+</p>
 
-        .profile-badge i {
-            margin-right: 5px;
-            color: #ffd700;
-        }
+<p align="center">
+  <!-- Discord Server (link kedua) -->
+  <a href="https://discord.gg/ws4aVYDecJ">
+    <img src="https://img.shields.io/badge/Discord_Server-Anomali-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" width="300"/>
+  </a>
+</p>
 
-        /* Stats Counter */
-        .stats {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin-bottom: 30px;
-            flex-wrap: wrap;
-        }
+<p align="center">
+  <!-- Sociabuzz Donate -->
+  <a href="https://sociabuzz.com/lalzyx_/tribe">
+    <img src="https://img.shields.io/badge/Traktir_Kopi-Sociabuzz-FF5E5B?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=FF5E5B" width="300"/>
+  </a>
+</p>
 
-        .stat-item {
-            background: rgba(255, 255, 255, 0.1);
-            padding: 10px 20px;
-            border-radius: 30px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            text-align: center;
-            min-width: 80px;
-        }
+<p align="center">
+  <!-- WhatsApp Group -->
+  <a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">
+    <img src="https://img.shields.io/badge/WA_Group-SRRVER_PT_PT_X8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" width="300"/>
+  </a>
+</p>
 
-        .stat-number {
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: white;
-        }
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/Hialdev">
+    <img src="https://img.shields.io/badge/GitHub-@Hialdev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="300"/>
+  </a>
+</p>
 
-        .stat-label {
-            font-size: 0.7rem;
-            opacity: 0.7;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
+---
 
-        /* Links Section - INI YANG UTAMA */
-        .links {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            margin-bottom: 30px;
-        }
+## 📊 GITHUB STATS
 
-        .link-btn {
-            display: flex;
-            align-items: center;
-            padding: 16px 25px;
-            background: rgba(255, 255, 255, 0.15);
-            backdrop-filter: blur(10px);
-            border-radius: 60px;
-            text-decoration: none;
-            color: white;
-            font-weight: 500;
-            font-size: 1.1rem;
-            border: 1px solid rgba(255, 255, 255, 0.25);
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hialdev&show_icons=true&theme=midnight-purple&border_radius=15" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hialdev&theme=midnight-purple&border_radius=15" width="400"/>
+</p>
 
-        .link-btn:hover {
-            transform: scale(1.03);
-            background: rgba(255, 255, 255, 0.25);
-            border-color: rgba(255, 255, 255, 0.5);
-            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
-        }
+---
 
-        .link-btn i {
-            font-size: 1.8rem;
-            width: 40px;
-            text-align: center;
-            margin-right: 15px;
-        }
+## 📱 QR CODE ALL LINKS
 
-        .link-btn .btn-text {
-            flex: 1;
-        }
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://www.tiktok.com/@hialdev01"><br>TikTok</td>
+      <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://www.facebook.com/share/1HJk7o76T7/"><br>Facebook</td>
+      <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://discord.gg/ws4aVYDecJ"><br>Anomali</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://sociabuzz.com/lalzyx_/tribe"><br>Donasi</td>
+      <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV"><br>WA Group</td>
+      <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/Hialdev"><br>GitHub</td>
+    </tr>
+  </table>
+</p>
 
-        .link-btn .btn-desc {
-            font-size: 0.8rem;
-            opacity: 0.7;
-            display: block;
-        }
+---
 
-        .link-btn .arrow {
-            font-size: 1.2rem;
-            opacity: 0.5;
-            transition: 0.3s;
-        }
+## 👥 JOIN WHATSAPP GROUP
 
-        .link-btn:hover .arrow {
-            opacity: 1;
-            transform: translateX(5px);
-        }
+<p align="center">
+  <b>SRRVER PT PT X8</b><br>
+  <a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">
+    <img src="https://img.shields.io/badge/KLIK_DISINI_UNTUK_JOIN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="350"/>
+  </a>
+</p>
 
-        /* Warna spesifik untuk setiap platform */
-        .tiktok { background: linear-gradient(145deg, #000000, #1a1a1a); }
-        .facebook { background: linear-gradient(145deg, #1877f2, #0d5ab9); }
-        .discord-profile { background: linear-gradient(145deg, #5865F2, #404eed); }
-        .discord-server { background: linear-gradient(145deg, #5865F2, #2c3b8f); }
-        .sociabuzz { background: linear-gradient(145deg, #FF5E5B, #d43f3c); }
-        .whatsapp { background: linear-gradient(145deg, #25D366, #128C7E); }
-        .github { background: linear-gradient(145deg, #333, #24292e); }
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV" width="150"/>
+</p>
 
-        /* Featured Section (Server Anomali) */
-        .featured {
-            background: linear-gradient(145deg, rgba(88, 101, 242, 0.3), rgba(64, 78, 237, 0.3));
-            border-radius: 30px;
-            padding: 20px;
-            margin-bottom: 25px;
-            border: 2px solid rgba(88, 101, 242, 0.5);
-            text-align: center;
-        }
+---
 
-        .featured h3 {
-            font-size: 1.3rem;
-            margin-bottom: 10px;
-        }
+## ☕ SUPPORT ME
 
-        .featured .server-link {
-            display: inline-block;
-            background: #5865F2;
-            color: white;
-            padding: 12px 30px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: 600;
-            margin-top: 10px;
-            border: 1px solid rgba(255,255,255,0.3);
-        }
+<p align="center">
+  <a href="https://sociabuzz.com/lalzyx_/tribe">
+    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="300"/>
+  </a>
+</p>
 
-        /* Footer */
-        .footer {
-            text-align: center;
-            margin-top: 20px;
-            opacity: 0.6;
-            font-size: 0.8rem;
-        }
+<p align="center">
+  <i>Traktir kopi biar semangat bikin konten! ✨</i>
+</p>
 
-        .footer i {
-            color: #ff6b6b;
-        }
+---
 
-        /* Responsive */
-        @media (max-width: 400px) {
-            .bio-card { padding: 20px 15px; }
-            .profile h1 { font-size: 1.7rem; }
-            .link-btn { padding: 14px 20px; }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="bio-card">
-            <!-- Profile Section -->
-            <div class="profile">
-                <div class="profile-pic">
-                    <div class="profile-pic-inner">Hd</div>
-                </div>
-                <h1>Hialdev</h1>
-                <p>⚡ Content Creator | Developer | Gamer</p>
-                <span class="profile-badge">
-                    <i class="fas fa-star"></i> 2.5K Followers
-                </span>
-            </div>
+## 📌 LINK CEPAT
 
-            <!-- Stats Counter (biar hidup) -->
-            <div class="stats">
-                <div class="stat-item">
-                    <div class="stat-number">23</div>
-                    <div class="stat-label">Projects</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">1.2K</div>
-                    <div class="stat-label">Likes</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">580</div>
-                    <div class="stat-label">Friends</div>
-                </div>
-            </div>
+<p align="center">
+  <a href="https://www.tiktok.com/@hialdev01">🎵 TikTok</a> •
+  <a href="https://www.facebook.com/share/1HJk7o76T7/">📘 Facebook</a> •
+  <a href="https://discord.gg/ws4aVYDecJ">🎮 Anomali</a> •
+  <a href="https://sociabuzz.com/lalzyx_/tribe">☕ Donasi</a> •
+  <a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">👥 WA</a>
+</p>
 
-            <!-- FEATURED: Discord Server Anomali (ditampilkan khusus) -->
-            <div class="featured">
-                <i class="fab fa-discord" style="font-size: 2.5rem; margin-bottom: 5px;"></i>
-                <h3>🎮 JOIN SERVER ANOMALI</h3>
-                <p>Gaming Community • Hangout • Kolaborasi • 24/7 Active</p>
-                <a href="https://discord.gg/ws4aVYDecJ" target="_blank" class="server-link">
-                    <i class="fab fa-discord"></i> Join Sekarang
-                </a>
-            </div>
+---
 
-            <!-- ALL LINKS - SEMUA LINK KAMU -->
-            <div class="links">
-                <!-- TikTok -->
-                <a href="https://www.tiktok.com/@hialdev01" target="_blank" class="link-btn tiktok">
-                    <i class="fab fa-tiktok"></i>
-                    <span class="btn-text">
-                        TikTok
-                        <span class="btn-desc">@hialdev01</span>
-                    </span>
-                    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
-                </a>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Hialdev/count.svg" alt="Visitor Counter"/>
+</p>
 
-                <!-- Facebook -->
-                <a href="https://www.facebook.com/share/1HJk7o76T7/" target="_blank" class="link-btn facebook">
-                    <i class="fab fa-facebook-f"></i>
-                    <span class="btn-text">
-                        Facebook
-                        <span class="btn-desc">Lal Kimochi</span>
-                    </span>
-                    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
-                </a>
-
-                <!-- Discord Profile -->
-                <a href="https://discord.com/users/1460940712131563664" target="_blank" class="link-btn discord-profile">
-                    <i class="fab fa-discord"></i>
-                    <span class="btn-text">
-                        Discord Profile
-                        <span class="btn-desc">Hialdev#xxxx</span>
-                    </span>
-                    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
-                </a>
-
-                <!-- Discord Server Anomali (lagi, tapi versi link biasa) -->
-                <a href="https://discord.gg/ws4aVYDecJ" target="_blank" class="link-btn discord-server">
-                    <i class="fab fa-discord"></i>
-                    <span class="btn-text">
-                        Server Anomali
-                        <span class="btn-desc">Join Discord Server</span>
-                    </span>
-                    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
-                </a>
-
-                <!-- Sociabuzz Donate -->
-                <a href="https://sociabuzz.com/lalzyx_/tribe" target="_blank" class="link-btn sociabuzz">
-                    <i class="fas fa-coffee"></i>
-                    <span class="btn-text">
-                        Traktir Kopi
-                        <span class="btn-desc">Support via Sociabuzz</span>
-                    </span>
-                    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
-                </a>
-
-                <!-- WhatsApp Group -->
-                <a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV" target="_blank" class="link-btn whatsapp">
-                    <i class="fab fa-whatsapp"></i>
-                    <span class="btn-text">
-                        WA Group SRRVER PT PT X8
-                        <span class="btn-desc">Join grup WhatsApp</span>
-                    </span>
-                    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
-                </a>
-
-                <!-- GitHub -->
-                <a href="https://github.com/Hialdev" target="_blank" class="link-btn github">
-                    <i class="fab fa-github"></i>
-                    <span class="btn-text">
-                        GitHub
-                        <span class="btn-desc">@Hialdev</span>
-                    </span>
-                    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
-                </a>
-            </div>
-
-            <!-- Additional Info -->
-            <div style="text-align: center; margin-bottom: 15px;">
-                <a href="https://discord.gg/ws4aVYDecJ" style="color: #5865F2; text-decoration: none; font-weight: 500;">
-                    ⚡ discord.gg/ws4aVYDecJ ⚡
-                </a>
-            </div>
-
-            <!-- Footer -->
-            <div class="footer">
-                <p><i class="fas fa-heart"></i> Semua link Hialdev • Updated 2026</p>
-                <p style="margin-top: 5px;">Click any link to connect!</p>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+<p align="center">
+  <i>Made with ❤️ by Hialdev • Last updated 2026</i>
+</p>
