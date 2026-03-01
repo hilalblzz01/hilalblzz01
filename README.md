@@ -1,38 +1,42 @@
 <div align="center">
 
-<br>
-
 <h1>hialdev01</h1>
 
 <p>
-Creator • Developer • Digital Builder<br/>
-Links & Community
+Builder • Creator • Developer<br/>
+Official links & community
 </p>
 
-<br/>
-
-<a href="https://sociabuzz.com/lalzyx_/donate">
-  <img src="https://img.shields.io/badge/Support%20Me-000000?style=flat&logo=ko-fi&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://tiktok.com/@hialdev01">
-  <img src="https://img.shields.io/badge/TikTok-@hialdev01-000000?style=flat&logo=tiktok&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">
-  <img src="https://img.shields.io/badge/WhatsApp%20Group-PT%20PT%20X8-000000?style=flat&logo=whatsapp&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/ws4aVYDecJ">
-  <img src="https://img.shields.io/badge/Discord-JOIN%20TO%20ANOMALI%20SERVER-000000?style=flat&logo=discord&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<sub>Thanks for supporting & joining the community 🤍</sub>
-
-<br/><br/>
+<p>
+  <a href="https://tiktok.com/@hialdev01">TikTok</a>
+  •
+  <a href="https://discord.gg/ws4aVYDecJ">Discord</a>
+  •
+  <a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">WhatsApp Group</a>
+  •
+  <a href="https://sociabuzz.com/lalzyx_/donate">Donate</a>
+</p>
 
 </div>
+
+---
+
+## Links
+
+### Support
+- **Donate (SociaBuzz):** https://sociabuzz.com/lalzyx_/donate
+
+### Social
+- **TikTok:** https://tiktok.com/@hialdev01
+
+### Community
+- **Discord:** JOIN TO ANOMALI SERVER — https://discord.gg/ws4aVYDecJ  
+- **WhatsApp Group:** PT PT X8 — https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV
+
+---
+
+## About
+Short description here (optional).  
+Example: automation projects, bots, tools, and experiments.
+
+> Thanks for supporting and joining the community 🤍
