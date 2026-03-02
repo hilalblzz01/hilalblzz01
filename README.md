@@ -5,34 +5,24 @@
 
 <br><br>
 
-<!-- ===== SUPPORT LINK ===== -->
+<!-- ALL LINKS IN ONE LINE -->
 <a href="https://sociabuzz.com/lalzyx_/donate">
-  <img src="https://img.shields.io/badge/Support_Me-Trakteer-FF5F5F?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Support_Me-FF5F5F?style=for-the-badge&logo=ko-fi&logoColor=white" />
 </a>
-
-<br><br>
-
-<!-- ===== SOCIAL MEDIA ===== -->
+&nbsp;&nbsp;
 <a href="https://tiktok.com/@hialdev01">
-  <img src="https://img.shields.io/badge/TikTok-@hialdev01-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
-
-<br><br>
-
-<!-- ===== COMMUNITY GROUPS ===== -->
+&nbsp;&nbsp;
 <a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">
-  <img src="https://img.shields.io/badge/WhatsApp_Group-PT_PT_X8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-<br><br>
-
+&nbsp;&nbsp;
 <a href="https://discord.gg/ws4aVYDecJ">
-  <img src="https://img.shields.io/badge/Discord-Anomali_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <br><br>
-
-<!-- ===== FOOTER ===== -->
 <sub>Thanks for supporting & joining the community 🤍</sub>
 
 </div>
