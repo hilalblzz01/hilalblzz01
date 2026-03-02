@@ -1,71 +1,42 @@
 <div align="center">
 
-<!-- HEADER DENGAN AURA -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=hialdev01;%3E_DEVELOPER;%3E_CREATOR;%3E_DIGITAL+BUILDER" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7DF9FF,50:A78BFA,100:FF5F5F&height=120&section=header&text=hialdev01&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<!-- GLOW TEXT -->
-<p>
-  <sub>
-    <img src="https://img.shields.io/badge/⚡-my%20social%20universe-ff69b4?style=flat" />
-  </sub>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=7DF9FF&center=true&vCenter=true&width=450&lines=Hey%2C+I'm+Hilal+%F0%9F%91%8B;Content+Creator+%7C+Gamer+%7C+Coder;Building+cool+stuff+on+the+internet+%F0%9F%94%A5" alt="Typing SVG" />
 
-<!-- SPARKLE LINE -->
-<img src="https://img.shields.io/badge/-━━━━━━━-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/✨-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-━━━━━━━-0D1117?style=for-the-badge" />
+</div>
 
-<br><br>
+<br/>
 
-<!-- CARD 1: SUPPORT -->
-<a href="https://sociabuzz.com/lalzyx_/donate">
-  <img src="https://img.shields.io/badge/🤍-SUPPORT%20ME-FF5F5F?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=FF5F5F&color=FF5F5F" />
-</a>
+**Hilal** — Content creator yang suka eksplorasi dunia digital. Dari bikin konten, ngulik kode, sampai nge-game, semua gue jabanin. 🎮💻
 
-<br><br>
+- 🎯 &nbsp;**Focus** — Digital content & community building
+- 🎮 &nbsp;**Gaming** — Salah satu cara terbaik buat recharge
+- 💻 &nbsp;**Coding** — Ngulik hal baru, bikin sesuatu dari nol
+- 🌐 &nbsp;**Community** — PT PT X8 & Anomali Server
 
-<!-- CARD 2: TIKTOK -->
-<a href="https://tiktok.com/@hialdev01">
-  <img src="https://img.shields.io/badge/🎵-TIKTOK%20%40hialdev01-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000&color=000000" />
-</a>
+<br/>
 
-<br><br>
+> *"Build things. Share things. Keep going."*
 
-<!-- CARD 3: WHATSAPP -->
-<a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">
-  <img src="https://img.shields.io/badge/💬-WHATSAPP%20GROUP%20PT%20PT%20X8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=25D366" />
-</a>
+<br/>
 
-<br><br>
+---
 
-<!-- CARD 4: DISCORD -->
-<a href="https://discord.gg/ws4aVYDecJ">
-  <img src="https://img.shields.io/badge/🎮-DISCORD%20ANOMALI%20SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" />
-</a>
+<div align="center">
 
-<br><br>
+### 🔗 Find Me
 
-<!-- BORDER LINE KEREN -->
-<img src="https://img.shields.io/badge/╔══════════════════════════╗-0D1117?style=flat&labelColor=0D1117&color=0D1117" />
-<br>
-<img src="https://img.shields.io/badge/║%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20║-0D1117?style=flat&labelColor=0D1117&color=0D1117" />
-<br>
-<img src="https://img.shields.io/badge/╚══════════════════════════╝-0D1117?style=flat&labelColor=0D1117&color=0D1117" />
+[![Portfolio](https://img.shields.io/badge/-🌐_hialdev01.github.io-0d1117?style=flat-square&logoColor=white)](https://hialdev01.github.io)
+&nbsp;
+[![TikTok](https://img.shields.io/badge/-@hialdev01-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@hialdev01)
+&nbsp;
+[![Discord](https://img.shields.io/badge/-Anomali_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ws4aVYDecJ)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/-PT_PT_X8-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV)
 
-<!-- FOOTER KEREN -->
-<br>
-<sub>
-  <img src="https://img.shields.io/badge/🎉-thanks%20for%20stopping%20by!-FFD700?style=flat" />
-</sub>
-<br>
-<sub>
-  <img src="https://img.shields.io/badge/❤️-let's%20build%20something%20amazing%20together-FF69B4?style=flat" />
-</sub>
+<br/>
 
-<!-- ANIMATED DOT MATRIX -->
-<br><br>
-<img src="https://img.shields.io/badge/··········-0D1117?style=flat" />
-<img src="https://img.shields.io/badge/······-0D1117?style=flat" />
-<img src="https://img.shields.io/badge/····-0D1117?style=flat" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F5F,50:A78BFA,100:7DF9FF&height=80&section=footer&animation=fadeIn" />
 
 </div>
