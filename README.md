@@ -1,61 +1,71 @@
 <div align="center">
 
-<!-- Header dengan glow effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=hialdev01;%3C%2F+Creator+%26+Developer+%3E;%7B+Digital+Builder+%7D" alt="Typing SVG" />
+<!-- HEADER DENGAN AURA -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=hialdev01;%3E_DEVELOPER;%3E_CREATOR;%3E_DIGITAL+BUILDER" alt="Typing SVG" />
 
-<!-- Decorative line -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="25"> 
-<sub><b>  my social universe  </b></sub> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="25">
+<!-- GLOW TEXT -->
+<p>
+  <sub>
+    <img src="https://img.shields.io/badge/⚡-my%20social%20universe-ff69b4?style=flat" />
+  </sub>
+</p>
+
+<!-- SPARKLE LINE -->
+<img src="https://img.shields.io/badge/-━━━━━━━-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✨-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-━━━━━━━-0D1117?style=for-the-badge" />
 
 <br><br>
 
-<!-- ===== SUPPORT CARD ===== -->
+<!-- CARD 1: SUPPORT -->
 <a href="https://sociabuzz.com/lalzyx_/donate">
-  <img src="https://img.shields.io/badge/🌱_Support_Me_🌱-FF5F5F?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=FF5F5F" />
+  <img src="https://img.shields.io/badge/🤍-SUPPORT%20ME-FF5F5F?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=FF5F5F&color=FF5F5F" />
 </a>
 
 <br><br>
 
-<!-- ===== SOCIAL CARD ===== -->
+<!-- CARD 2: TIKTOK -->
 <a href="https://tiktok.com/@hialdev01">
-  <img src="https://img.shields.io/badge/🎵_TikTok-@hialdev01-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🎵-TIKTOK%20%40hialdev01-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000&color=000000" />
 </a>
 
 <br><br>
 
-<!-- ===== COMMUNITY CARDS ===== -->
+<!-- CARD 3: WHATSAPP -->
 <a href="https://chat.whatsapp.com/LDKBiA1mf24BB7jKUkYVDV">
-  <img src="https://img.shields.io/badge/💬_WhatsApp_Group-PT_PT_X8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
+  <img src="https://img.shields.io/badge/💬-WHATSAPP%20GROUP%20PT%20PT%20X8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=25D366" />
 </a>
 
 <br><br>
 
+<!-- CARD 4: DISCORD -->
 <a href="https://discord.gg/ws4aVYDecJ">
-  <img src="https://img.shields.io/badge/🎮_Discord-Anomali_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
+  <img src="https://img.shields.io/badge/🎮-DISCORD%20ANOMALI%20SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" />
 </a>
 
 <br><br>
 
-<!-- Animated separator -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Collision.png" width="20">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Collision.png" width="20">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Collision.png" width="20">
-
+<!-- BORDER LINE KEREN -->
+<img src="https://img.shields.io/badge/╔══════════════════════════╗-0D1117?style=flat&labelColor=0D1117&color=0D1117" />
 <br>
+<img src="https://img.shields.io/badge/║%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20║-0D1117?style=flat&labelColor=0D1117&color=0D1117" />
+<br>
+<img src="https://img.shields.io/badge/╚══════════════════════════╝-0D1117?style=flat&labelColor=0D1117&color=0D1117" />
 
-<!-- Footer with emojis -->
+<!-- FOOTER KEREN -->
+<br>
 <sub>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="15"> 
-  thanks for stopping by!  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="15">
+  <img src="https://img.shields.io/badge/🎉-thanks%20for%20stopping%20by!-FFD700?style=flat" />
+</sub>
+<br>
+<sub>
+  <img src="https://img.shields.io/badge/❤️-let's%20build%20something%20amazing%20together-FF69B4?style=flat" />
 </sub>
 
-<br>
-<sub>let's build something amazing together 🚀</sub>
-
-<!-- Floating dots effect (optional) -->
-<br>
-<sub>✦ ✦ ✦</sub>
+<!-- ANIMATED DOT MATRIX -->
+<br><br>
+<img src="https://img.shields.io/badge/··········-0D1117?style=flat" />
+<img src="https://img.shields.io/badge/······-0D1117?style=flat" />
+<img src="https://img.shields.io/badge/····-0D1117?style=flat" />
 
 </div>
